@@ -17,12 +17,9 @@
 	<h3>3. 이미 커밋한 내용을 취소하고 싶은 경우</h3>
 	<p>브랜치 초기화 - 특정 지점으로 완전히 초기화 한다.</p>
 	<p>reverse commit</p>
-<<<<<<< HEAD
 	
-=======
 	<button>click</button>
->>>>>>> 신규개발
-</body>
+	
 <script>
 	$("p").click(function(){
 		$(this).css('color','red');
